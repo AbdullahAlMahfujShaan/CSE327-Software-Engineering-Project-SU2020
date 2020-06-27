@@ -6,3 +6,4 @@ git push -u origin master
 
 git remote add origin "https://github.com/AbdullahAlMahfujShaan/CSE-327_-SoftwareEngineering_Project_Summer_2020/new/master"
 git push -u origin master
+git branch --set-upstream-to=origin/master master
