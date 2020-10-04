@@ -1,2 +1,2 @@
-# CSE-327_-SoftwareEngineering_Project_Summer_2020
+# CSE-327 -Software Engineering Project Summer 2020
 Project file containing every code and commits that we will do while doing the project.
